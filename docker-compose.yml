@@ -4,3 +4,8 @@ services :
      image: "rohit0101rm/notes-app:latest"
      ports :
          - "8000:8000"
+
+
+
+
+         
